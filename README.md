@@ -9,9 +9,9 @@
 
 
 - 💪 J'adore plein de trucs mais dans l'ensemble et dans mon taff :<br>
- - apprendre sans cesse des choses <i>(d'où mon métier de développeur)</i><br>
- - partager mes compétences et connaissances<br>
- - travailler en équipe<br>
+ * apprendre sans cesse des choses <i>(d'où mon métier de développeur)</i><br>
+ * partager mes compétences et connaissances<br>
+ * travailler en équipe<br>
 
 
 - 🔭 Je suis actuellement en train de réaliser un ✨<b> RPG sur navigateur [Masters Guild](https://barberemi.github.io/masters-guild-landing/) </b>✨ donc n'hésitez pas à me suivre !
