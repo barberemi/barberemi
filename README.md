@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm&logoColor=fb3292)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
 
 ### Languages:
