@@ -5,7 +5,7 @@
 
 ### Présentation
 
-- 😃 Je m'appelle Rémi Barbé, j'ai 31ans et j'habite depuis maintenant 8ans sur Lyon.
+- 😃 Je m'appelle Rémi Barbé, j'ai 32ans et j'habite depuis maintenant 9ans sur Lyon.
 
 
 - 💪 J'adore plein de trucs mais dans l'ensemble et dans mon taff :<br>
@@ -13,8 +13,9 @@
  * partager mes compétences et connaissances<br>
  * travailler en équipe<br>
 
+- Dernièrement, j'ai réalisé un site web sur l'univers des figurines Funko POP [PopBook](https://popbook.netlify.app/), permettant d'ajouter des figurines que l'on possède, ainsi que celles que l'on souhaite
 
-- 🔭 Je suis actuellement en train de réaliser un ✨<b> RPG sur navigateur [Masters Guild](https://barberemi.github.io/masters-guild-landing/) </b>✨ donc n'hésitez pas à me suivre !
+- 🔭 Je suis actuellement en train de terminer un ✨<b> RPG sur navigateur [Masters Guild](https://barberemi.github.io/masters-guild-landing/) </b>✨ donc n'hésitez pas à me suivre !
 
 
 - 📫 Comment me contacter ? **barbe.remi25@gmail.com**
