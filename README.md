@@ -1,41 +1,52 @@
-<h1 align='center'>👋 Bienvenue à tous 👋</h1>
+<h1 align="center">👋 Salut, moi c'est Rémi</h1>
 
+<img align="right" width="174" height="190" src="https://raw.githubusercontent.com/barberemi/barberemi/main/remitoon-img.png" alt="Avatar toon de Rémi Barbé">
 
-<img align='right' width='174' height='190' src='https://raw.githubusercontent.com/barberemi/barberemi/main/remitoon-img.png' alt='Rémi Barbé toon avatar'>
+Développeur web à Lyon, côté front chez **Euronews** 📺. J'aime apprendre sans cesse, partager ce que je sais et travailler en équipe.
 
-### Présentation
+En ce moment je m'intéresse surtout à **l'IA et aux agents** : les faire travailler avec une équipe, sur du vrai code, sans perdre le contrôle. Le reste du temps : front, perf, Symfony / PHP, TypeScript.
 
-- 😃 Je m'appelle Rémi Barbé, j'ai 32ans et j'habite depuis maintenant 9ans sur Lyon.
+<br clear="right">
 
+## 🏢 Pixel Bureau
 
-- 💪 J'adore plein de trucs mais dans l'ensemble et dans mon taff :<br>
- * apprendre sans cesse des choses <i>(d'où mon métier de développeur)</i><br>
- * partager mes compétences et connaissances<br>
- * travailler en équipe<br>
+**[Pixel Bureau](https://github.com/barberemi/pixel-bureau)** : la journée de ton équipe et de tes agents IA dans un open space en pixel art, façon *The Office*. C'est une Live Page pour [Kronn](https://github.com/DocRoms/Kronn) : collègues, workflows, mises en prod et validations en attente, d'un coup d'œil. Avec un mode TV pour l'écran de l'open space, des cérémonies et un canard en plastique qui grandit avec le sprint 🦆.
 
-- Dernièrement, j'ai réalisé un site web sur l'univers des figurines Funko POP [PopBook](https://popbook.netlify.app/), permettant d'ajouter des figurines que l'on possède, ainsi que celles que l'on souhaite
+<p align="center">
+  <a href="https://github.com/barberemi/pixel-bureau"><img src="https://raw.githubusercontent.com/barberemi/pixel-bureau/main/guide/img/plan.png" alt="Le plan du bureau de démo à 11h" width="720"></a>
+</p>
 
-- 🔭 Je suis actuellement en train de terminer un ✨<b> RPG sur navigateur [Masters Guild](https://barberemi.github.io/masters-guild-landing/) </b>✨ donc n'hésitez pas à me suivre !
+<p align="center">
+  <a href="https://github.com/barberemi/pixel-bureau/releases/latest"><img src="https://img.shields.io/github/v/release/barberemi/pixel-bureau?label=version&color=2e9e5b" alt="Dernière version"></a>
+  <img src="https://img.shields.io/github/license/barberemi/pixel-bureau?color=4a7fe0" alt="Licence">
+  <a href="https://github.com/barberemi/pixel-bureau/issues"><img src="https://img.shields.io/github/issues/barberemi/pixel-bureau?color=fbca04" alt="Issues ouvertes"></a>
+</p>
 
+## 🧪 Autres projets
 
-- 📫 Comment me contacter ? **barbe.remi25@gmail.com**
-  ou **[Twitter](https://twitter.com/Rem_Barbe)**
+| Projet | En bref |
+| --- | --- |
+| [Atlas Narratif](https://github.com/barberemi/atlas-narratif) | Outil d'analyse et de construction narrative pour auteurs : lore, timeline, carte, arc émotionnel, incohérences |
+| [DearVoices](https://github.com/barberemi/dear-voices) | Clone ta voix et lis n'importe quel texte avec elle (FastAPI, XTTS v2, React) |
+| [burn-streaming](https://github.com/barberemi/burn-streaming) | Sous-titres automatiques en temps réel sur les plateformes de streaming, avec Whisper |
+| [Masters Guild](https://barberemi.github.io/masters-guild-landing/) | RPG sur navigateur (React + Symfony) |
+| [PopBook](https://popbook.netlify.app/) | Collection de figurines Funko POP : celles qu'on a, celles qu'on veut |
 
+## 🛠️ Ce que j'utilise
 
-### Technologies et outils:
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/-PHP-000?logo=php&logoColor=777BB4)
+![Symfony](https://img.shields.io/badge/-Symfony-000?logo=symfony)
+![React](https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/-Python-000?logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=css&logoColor=1572B6)
+![Claude](https://img.shields.io/badge/-Claude-000?logo=claude&logoColor=D97757)
+![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?logo=phpstorm&logoColor=fb3292)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=visualstudiocode&logoColor=007ACC)
 
-![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=symfony)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm&logoColor=fb3292)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+## 📫 Me joindre
 
-
-### Languages:
-
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=typescript)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
+**barbe.remi25@gmail.com** · [X / Twitter](https://x.com/Rem_Barbe)
